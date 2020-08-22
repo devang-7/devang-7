@@ -1,6 +1,6 @@
 # Hola, I'm Devang! 🍓 🍫
 
-Coder.Student.
+Student.
 
 
 Here are some ideas to get you started:
