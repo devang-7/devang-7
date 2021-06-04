@@ -14,7 +14,7 @@
 
 ### [Educational Podcast Host](https://www.youtube.com/watch?v=4nICxXaOOD8) | MSIT '22
 
--- 🌱 I’m currently learning *Back-End Development, JavaScript, Node.JS*
+- 🌱 I’m currently learning *Back-End Development, JavaScript, Node.JS*
 
 - 🔭 I’m currently working on *my Competitive Skills and Aptitude*
 
