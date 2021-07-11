@@ -62,5 +62,5 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <p align="center">     
 <!--[devang-7 skyline gif]   get yours from here: https://skyline.github.com/    -->
-<img src="https://github.com/devang-7/devang-7/blob/master/.github/workflows/devang-7-2020.stl" height="350" width="800">     
+<img src="https://github.com/devang-7/devang-7/blob/master/.github/workflows/devang-7-2020.gif" height="350" width="800">     
 </p>
