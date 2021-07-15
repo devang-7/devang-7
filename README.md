@@ -57,7 +57,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![devang snake gif](https://github.com/devang-7/devang-7/blob/master/github-contribution-grid-snake.svg)
+![devang snake gif](https://github.com/devang-7/devang-7/blob/master/github-user-contribution.svg)
 
 
 <p align="center">     
