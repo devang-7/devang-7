@@ -1,16 +1,15 @@
-# Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Devang](https://github.com/devang-7)
+# Hello! I'm [Devang](https://github.com/devang-7)
 
-<a href="https://www.linkedin.com/in/devang-pandey-354529112/">
-  <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
+<!-- <a href="https://www.linkedin.com/in/devang-pandey-354529112/"> -->
+<!--   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
 </a>
 
 <a href="mailto:devang.pandey71@outlook.com">
   <img align="left" width="29px" src="https://www.bootgum.com/wp-content/uploads/2018/07/Email_Open_550px-1.gif" />
-</a>
+</a>-->
 <a href="https://www.youtube.com/channel/UCENZcMxTeKsRip7KrveVEqg">
-  <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
-</a>
-
+  <img align="left" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
+</a> 
 
 ### [Educational Podcast Host](https://www.youtube.com/watch?v=4nICxXaOOD8) | MSIT '22
 
@@ -26,7 +25,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=devang-7)
 
-#### Languages I prefer -
+<p align="center">
+    <strong>Languages I prefer     </strong>
+</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-7&layout=compact" alt="Languages"/> 
@@ -43,7 +44,6 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg" alt="node.js" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/sqlite.svg" alt="sqlite" width="40" height="40"/>
 </p>
-
 
 ## GitHub Stats
 
