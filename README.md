@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Building HMI for glue dosing systems**
 
-- 📫 How to reach me **devdailygram on Instagram**
+- 📫 How to reach me **@devdailygram on Instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
